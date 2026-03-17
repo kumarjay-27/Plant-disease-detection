@@ -26,6 +26,7 @@ A Machine Learning project that identifies **plant diseases** from images using 
 - **Streamlit / Flask** – Web app deployment
 
 ## 📂 Project Structure
+```
 plant-disease-identification/src
 │
 ├── app.py
@@ -37,6 +38,8 @@ plant-disease-identification/src
 ├── .gitignore
 ├── disease_info.py
 └── README.md
+
+```
 ## ⚙️ Installation & Setup
 
 ### 3️⃣ Install Dependencies
