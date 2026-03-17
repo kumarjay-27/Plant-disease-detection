@@ -1,0 +1,6 @@
+# Ignore dataset
+PlantVillage/
+model/plant_disease_model.h5
+model/plant_disease_model.keras
+__pycache__/
+*.pyc
