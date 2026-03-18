@@ -11,7 +11,7 @@ A Machine Learning project that identifies **plant diseases** from images using 
 
 - Detects diseases in multiple plant types.  
 - Provides disease description and possible remedies.  
-- High accuracy (~97–98% with MobileNetV2).  
+- High accuracy (~95–97% with MobileNetV2).  
 - Easy to train with new datasets.  
 - Supports real-time predictions.
 
