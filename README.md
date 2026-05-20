@@ -60,4 +60,5 @@ Then open the local URL shown in the terminal (usually http://localhost:8501).
 The model is trained on a collection of plant leaf images labeled by plant type and disease.
 You can replace the dataset with your own images for retraining or evaluation.
 
+
 ---
